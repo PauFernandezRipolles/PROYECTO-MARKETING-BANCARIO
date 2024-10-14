@@ -11,7 +11,7 @@ Si recentment ingresses al projecte, llegeix tot abans de començar.
 
 ¡Benvingut al repositori de Projecte Data GitHub de IT Academy de Barcelona Activa! En aquesta secció et guiarem sobre els elements claus del projecte perquè puguis aprofitar al màxim aquesta experiència d'aprenentatge.
 
-### Escenar
+### Escenari
 Integraràs el Departament d'Analistes de Dades d'una institució bancària que està implementant campanyes de màrqueting per persuadir els clients i els clients perquè se subscriguin a dipòsits a termini oferts pel banc.
 
 ### Equip
