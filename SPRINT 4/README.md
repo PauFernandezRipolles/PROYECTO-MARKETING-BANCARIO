@@ -1,1 +1,1 @@
-Aquí pots accedir al [DASHBOARD INTERACTIU](https://app.powerbi.com/view?r=eyJrIjoiYzBmZjhiMzktYjQwYS00NGUyLWIyMzQtMWMzYTlmYTExZTkxIiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9&pageName=87b42f337eb10d0b676a) de la part de Marketing d'aquest sprint 4.
+Aquí pots accedir al [🔗DASHBOARD INTERACTIU](https://app.powerbi.com/view?r=eyJrIjoiYzBmZjhiMzktYjQwYS00NGUyLWIyMzQtMWMzYTlmYTExZTkxIiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9&pageName=87b42f337eb10d0b676a) de la part de Marketing d'aquest sprint 4.
