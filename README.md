@@ -1,5 +1,6 @@
 # PROYECTO-MARKETING-BANCARIO
 
+Nota: El proyecto se realizó en castellano aunque las instrucciones son en catalán. 
 # ProjecteData
 ## Simulador Empresarial
 
